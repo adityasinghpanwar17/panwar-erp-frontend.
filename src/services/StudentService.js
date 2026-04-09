@@ -25,4 +25,4 @@ class StudentService {
 }
 }
 const studentServiceInstance = new StudentService();
-export default new StudentService();
+export default studentServiceInstance;
