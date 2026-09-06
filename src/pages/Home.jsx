@@ -480,7 +480,7 @@ const Home = () => {
                 </p>
             </div>
             <a 
-              href="https://maps.google.com/?q=Shreenath+Residency+Sanawad" 
+              href="https://www.google.com/maps/search/?api=1&query=Panwar+Coaching+Classes+Sanawad"
               target="_blank" 
               rel="noreferrer"
               className="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white px-10 py-4 rounded-2xl font-black text-lg transition-all shadow-xl shadow-blue-500/20 no-underline"
